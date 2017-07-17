@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Siri Intents Extension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Siri Intents ExtensionUI.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>SiriTalk.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +23,16 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>7A9121BE1F1ADEFF00366369</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7A9121D71F1B058B00366369</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7A9121E01F1B058B00366369</key>
 		<dict>
 			<key>primary</key>
 			<true/>
